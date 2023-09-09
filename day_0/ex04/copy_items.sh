@@ -1,0 +1,1 @@
+docker cp /Users/jergashe/goinfre/DataScience/subject/item/item.csv postgres:/tmp/item.csv
