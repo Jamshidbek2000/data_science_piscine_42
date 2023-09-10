@@ -1,0 +1,1 @@
+docker cp /Users/jergashe/goinfre/DataScience/subject/customer/data_2023_feb.csv postgres:/tmp/data_2023_feb.csv
